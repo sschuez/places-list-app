@@ -1,0 +1,13 @@
+.content {
+	display: flex;
+}
+
+.list-items {
+	flex-grow: 1;
+}
+
+.map-style {
+	height: 100vh;
+  position: sticky;
+  top: 0;
+}
